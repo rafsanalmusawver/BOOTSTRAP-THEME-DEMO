@@ -1,0 +1,469 @@
+.navBarCustomized{
+	background-color:transparent;
+	border-bottom:1px solid #887A79;
+	margin-bottom:0px;
+	}
+
+.navbar-fixed-top{
+	position: absolute;
+	}
+
+.firstSection{
+	background-image:url("header.jpg");
+	background-size:cover;
+	padding:170px 0px;
+	background-position: center;
+	}
+
+#listItems li a{
+	color:#B5ACB1;
+	font-weight: bold;
+	}
+
+#logo{
+	color:#B5ACB1;	
+	font-weight: bold;
+	}
+/*--nav bar section ends--*/
+
+
+/*--first section starts--*/
+
+.fsContent{text-align: center;}
+
+.fsContent h1{
+	font-weight: bold;
+	color:white;
+	font-size:350%;
+	margin-bottom:30px;
+	margin-top:-10px;
+	}
+
+.underline_red{
+	width:7.5%;
+	margin:0 auto;
+	border-color:#EE4B28;
+	border-top-width:3px; 
+	opacity: .8;
+	}
+
+.fsContent p{
+	color:#B5ACB1;
+	padding:30px 20px;
+	font-size:130%;
+	width:95%;
+	margin:0 auto;
+	}
+
+.btn_red{				 	 /*--use multiple time--*/
+	padding:14px 30px;
+	border-radius:20px;
+	background-color:#EE4B28;
+	border-color:#EE4B28; 
+	color:white;
+	opacity:.9;
+	margin-top:20px;
+	transition: .7s;
+	box-sizing: border-box;
+	}
+
+
+
+.btn_red:hover{
+	opacity:1;
+	color:white;
+	transition: .7s;
+	}
+/*--first section ends--*/
+
+
+
+/*--second section--*/
+.secondSection{
+	padding:90px 0px;
+	background-color:#F05F40;
+	}
+
+.secondSectionContent{
+	text-align:center;
+	color:white;
+	}
+
+.underline_white{
+	width:7.5%;
+	margin:0 auto;
+	border-color:white;
+	border-top-width:3px; 
+	opacity: .8;
+	}
+
+.secondSectionContent h1{
+	margin-bottom:20px;
+	}
+
+.secondSectionContent p{
+	margin-top:20px;
+	padding:0px 60px;
+	font-size:110%;
+	color:white;
+	opacity: .7;
+	}
+
+
+.btn_white{				 	
+	padding:14px 30px;
+	border-radius:20px;
+	background-color:white;
+	border-color:white; 
+	color:rgba(0,0,0,.95);
+	margin-top:20px;
+	font-weight: bold;
+	opacity:1;
+	transition:.7s;
+	box-sizing: border-box;
+	}
+
+.btn_white:hover{
+	opacity:.9;
+	transition:.7s;
+	}
+/*--second section--*/
+
+
+
+/*--third section--*/
+.thirdSection{
+	padding:80px 0px;
+	}
+
+.thirdSectionTitle h1{
+	text-align:center;
+	}
+
+.fourColumns{
+	text-align: center;
+	}
+
+.fourColumns i{
+	font-size:400%;
+	color:#EE4B28;
+	}
+
+.fourColumns h3{
+	margin:0;
+	padding:15px;
+	color:rgba(0,0,0,.85);
+	}
+
+.fourColumns p{
+	padding:2px 10px;
+	font-size:120%;
+	color:rgba(0,0,0,.75);
+	}
+
+.columns{
+	margin-top:50px;
+	}
+/*--third section--*/
+
+
+
+/*--fourth section--*/
+.fourthSectionImages{
+	margin-top:20px;
+	}
+
+.bg1{
+	background-image: url(1.jpg);
+	background-size:cover;
+	background-position: center;
+	opacity:.9;
+	}
+
+.bg2{
+	background-image: url(2.jpg);
+	background-size:cover;
+	background-position: center;
+	opacity:.9;
+	}
+
+.bg3{
+	background-image: url(3.jpg);
+	background-size:cover;
+	background-position: center;
+	opacity:.9;
+	}
+
+.bg4{
+	background-image: url(4.jpg);
+	background-size:cover;
+	background-position: center;
+	opacity:.9;
+	}
+
+.bg5{
+	background-image: url(5.jpg);
+	background-size:cover;
+	background-position: center;
+	opacity:.9;
+	}
+
+.bg6{
+	background-image: url(6.jpg);
+	background-size:cover;
+	background-position: center;
+	opacity:.9;
+	}
+
+.hoverDiv{
+	text-align: center;
+	min-height:100%;
+	color:white;
+	background-color:#F05F40;
+	margin:0;
+	padding:90px;
+	cursor:pointer;
+	opacity: 0;
+	transition:.7s;
+	}
+
+.hoverDiv:hover{
+	opacity:.7;
+	transition: .7s;
+	}
+
+.hoverDiv h3{
+	margin:0;
+	font-size:120%;
+	color:white;
+	line-height:40px;
+	}
+
+.hoverDiv h2{
+	margin:0;
+	font-size:130%;
+	}
+/*--fourth section--*/
+
+
+
+/*--fifth section--*/
+.fifthSection{
+	background-color:#222222;
+	padding:50px 0px;
+	}
+
+.fifthSectionContents{
+	text-align:center;
+	color:white;
+	}
+
+.fifthSectionContents h2{
+	margin:0;
+	}
+/*--fifth section--*/
+
+
+
+/*--sixth section--*/
+.sixthSection{
+	padding:100px 0px;
+	}
+
+.sixthSectionContents{
+	text-align: center;
+	}
+
+.sixthSectionContents h2{
+	margin:0;
+	padding:20px 0px;
+	color:rgba(0,0,0,.75);
+	}
+
+.sixthSectionContents p{
+	padding:20px 60px;
+	font-size:110%;
+	color:rgba(0,0,0,.75);
+	}
+
+ span{display: block; font-size:110%;}
+
+.contact{text-align: center;}
+
+.contact i{
+	font-size: 300%;
+	}
+
+#email{color:#F05F40; cursor: pointer;}
+#email:hover{text-decoration: underline;}
+/*--sixth section--*/
+
+
+
+/*--footer section--*/
+.footer{
+	background-color:#222222;
+	color:white;
+	text-align: center;
+	letter-spacing: 2px; 
+	padding:20px 0px;
+	}
+
+.footer h6{margin: 0;}
+
+/*--footer section--*/
+
+.clearDiv{
+	clear:both;
+	}
+
+.paddingCleaner{
+	padding-right:0px;
+	padding-left:0px;
+	}
+
+
+
+/*--media queries--*/
+@media (max-width:767px) {
+
+.navBarCustomized{
+	background-color:white;
+	border-bottom:1px solid rgba(0,0,0,.05);
+	}
+
+
+#logo{
+	color:#F05F40;	
+	font-weight: bold;
+	}
+
+
+.fsContent h1{
+	font-weight: bold;
+	color:white;
+	font-size:200%;
+	margin-bottom:30px;
+	margin-top:-60px;
+	}
+
+.underline_red{
+	width:13%;
+	}
+
+.underline_white{
+	width:13%;
+	}
+
+.firstSection{
+	padding-bottom:70px; 
+	}
+
+
+.fsContent p{
+	padding:30px 0px;
+	font-size:110%;
+	width:100%;
+	margin:0 auto;
+	color:white;
+	}
+
+.secondSectionContent p{
+	margin-top:20px;
+	padding:0px 10px;
+	font-size:110%;
+	color:white;
+	opacity: .7;
+	}
+
+.thirdSectionTitle h1{
+	font-size:215%;
+	padding-top:10px;
+	}
+
+.thirdSection{
+	padding:10px 0px 0px 0px;
+	background-color:rgba(0,0,0,.1);
+	}
+
+.secondSectionContent h1{
+	font-size:215%;
+	}
+
+.fourColumns{
+	margin-top:2px;
+	background-color:#F05F40;
+	color:white;
+	padding:30px 0px;
+	border-radius:4px;
+	}
+
+#xsBoxsHADOW{box-shadow: 0px -2px 8px 0px rgba(0,0,0,0.75);}
+
+.fourColumns i{color:white;}
+.fourColumns h3{color:white;}
+.fourColumns p{color:white;}
+
+
+.sixthSectionContents p{
+	padding:20px 0px;
+	font-size:113%;
+	}
+
+.sixthSection{
+	padding:90px 0px;
+	}
+
+.contact{
+	margin-top:20px;
+	}
+
+.secondSection{
+	border-bottom-right-radius:2px;
+	border-bottom-left-radius:2px;
+	box-shadow: 0px 2px 8px 0px rgba(0,0,0,0.75);
+
+	}
+
+.fourthSectionImages{
+	margin-top:2px;
+	}
+
+.sixthSection{
+	background-color: #F05F40;
+	color:white;
+	}
+
+.sixthSection h2{color:white;}
+.sixthSection p{color:white;}
+.sixthSection i{color:white;}
+#underlineWhite{border-color:white;}
+
+#email{color:white; cursor: pointer;}
+
+
+}
+
+
+
+
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width:991px){
+
+
+.navbar-fixed-top{
+	position: absolute;
+	}
+
+
+.fourColumns{
+	margin-top:50px;
+	}
+
+.contact{
+	margin-top:20px;
+}
+
+
+
+}
